@@ -1,0 +1,8 @@
+prefix=/home/rahul/blockchain_ws/devel
+
+Name: security_decentralize_pkg
+Description: Description of security_decentralize_pkg
+Version: 0.0.0
+Cflags: -I/home/rahul/blockchain_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

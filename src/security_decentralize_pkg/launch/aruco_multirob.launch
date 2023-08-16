@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="security_decentralize_pkg" type="bot_1.py" name="bot_1"/>
+  <node pkg="security_decentralize_pkg" type="bot_2.py" name="bot_2"/>
+  <!-- <node pkg="security_decentralize_pkg" type="client_3.py" name="client_3"/>
+  <node pkg="security_decentralize_pkg" type="sim_plot.py" name="sim_plot"/> -->
+</launch>
